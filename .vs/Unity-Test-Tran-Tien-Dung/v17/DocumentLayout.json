@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|d:\\code\\unity\\unity-test-tran-tien-dung\\assets\\scripts\\ui\\uipanelmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uipanelmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|d:\\code\\unity\\unity-test-tran-tien-dung\\assets\\scripts\\ui\\uimainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|d:\\code\\unity\\unity-test-tran-tien-dung\\assets\\scripts\\controllers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\assets\\scripts\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|d:\\code\\unity\\unity-test-tran-tien-dung\\assets\\scripts\\controllers\\leveltime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\leveltime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\assets\\scripts\\controllers\\levelmoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\levelmoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|d:\\code\\unity\\unity-test-tran-tien-dung\\assets\\scripts\\controllers\\levelcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\levelcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|d:\\code\\unity\\unity-test-tran-tien-dung\\assets\\scripts\\board\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|d:\\code\\unity\\unity-test-tran-tien-dung\\assets\\scripts\\board\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|d:\\code\\unity\\unity-test-tran-tien-dung\\assets\\scripts\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F5E2F6-B6C9-4657-4FE3-00368D9E6FF8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIPanelMain.cs",
+              "DocumentMoniker": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\UI\\UIPanelMain.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIPanelMain.cs",
+              "ToolTip": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\UI\\UIPanelMain.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIPanelMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:02:13.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\Controllers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\GameManager.cs",
+              "ToolTip": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\Controllers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\GameManager.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAmwK8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:59:27.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelTime.cs",
+              "DocumentMoniker": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\Controllers\\LevelTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\LevelTime.cs",
+              "ToolTip": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\Controllers\\LevelTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\LevelTime.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:53:44.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LevelCondition.cs",
+              "DocumentMoniker": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\Controllers\\LevelCondition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\LevelCondition.cs",
+              "ToolTip": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\Controllers\\LevelCondition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\LevelCondition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:53:41.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\Board\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Board\\Item.cs",
+              "ToolTip": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\Board\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Board\\Item.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwGEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:37:42.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Board.cs",
+              "DocumentMoniker": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\Board\\Board.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Board\\Board.cs",
+              "ToolTip": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\Board\\Board.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Board\\Board.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAiwKMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:04:37.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIMainManager.cs",
+              "DocumentMoniker": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\UI\\UIMainManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIMainManager.cs",
+              "ToolTip": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\UI\\UIMainManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIMainManager.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAhwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:03:52.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BoardController.cs",
+              "DocumentMoniker": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\Controllers\\BoardController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\BoardController.cs",
+              "ToolTip": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\Controllers\\BoardController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\BoardController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowDwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:01:24.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameSettings.cs",
+              "DocumentMoniker": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\GameSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameSettings.cs",
+              "ToolTip": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\GameSettings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:59:29.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LevelMoves.cs",
+              "DocumentMoniker": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\Controllers\\LevelMoves.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\LevelMoves.cs",
+              "ToolTip": "D:\\Code\\Unity\\Unity-Test-Tran-Tien-Dung\\Assets\\Scripts\\Controllers\\LevelMoves.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\LevelMoves.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:53:51.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 911,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
